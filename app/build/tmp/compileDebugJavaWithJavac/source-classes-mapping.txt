@@ -1,0 +1,40 @@
+com/example/connectdatauser/databinding/FragmentShowBinding.java
+ com.example.connectdatauser.databinding.FragmentShowBinding
+com/example/connectdatauser/DataBindingTriggerClass.java
+ com.example.connectdatauser.DataBindingTriggerClass
+androidx/databinding/DataBinderMapperImpl.java
+ androidx.databinding.DataBinderMapperImpl
+com/example/connectdatauser/databinding/FragmentShowBindingImpl.java
+ com.example.connectdatauser.databinding.FragmentShowBindingImpl
+androidx/databinding/library/baseAdapters/BR.java
+ androidx.databinding.library.baseAdapters.BR
+com/example/connectdatauser/databinding/ItemBindingImpl.java
+ com.example.connectdatauser.databinding.ItemBindingImpl
+com/example/connectdatauser/databinding/ItemBinding.java
+ com.example.connectdatauser.databinding.ItemBinding
+com/example/connectdatauser/BuildConfig.java
+ com.example.connectdatauser.BuildConfig
+com/example/connectdatauser/BR.java
+ com.example.connectdatauser.BR
+androidx/databinding/DataBindingComponent.java
+ androidx.databinding.DataBindingComponent
+com/example/connectdatauser/databinding/FragmentGetDataBindingImpl.java
+ com.example.connectdatauser.databinding.FragmentGetDataBindingImpl
+com/example/connectdatauser/databinding/FragmentGetDataBinding.java
+ com.example.connectdatauser.databinding.FragmentGetDataBinding
+com/example/connectdatauser/databinding/ActivityMainBinding.java
+ com.example.connectdatauser.databinding.ActivityMainBinding
+com/example/connectdatauser/databinding/ActivityMainBindingImpl.java
+ com.example.connectdatauser.databinding.ActivityMainBindingImpl
+com/example/connectdatauser/DataBinderMapperImpl.java
+ com.example.connectdatauser.DataBinderMapperImpl
+ com.example.connectdatauser.DataBinderMapperImpl$InnerBrLookup
+ com.example.connectdatauser.DataBinderMapperImpl$InnerLayoutIdLookup
+com/example/connectdatauser/dao/UserDao_Impl.java
+ com.example.connectdatauser.dao.UserDao_Impl
+ com.example.connectdatauser.dao.UserDao_Impl$1
+ com.example.connectdatauser.dao.UserDao_Impl$2
+ com.example.connectdatauser.dao.UserDao_Impl$3
+com/example/connectdatauser/database/UserRoomDatabase_Impl.java
+ com.example.connectdatauser.database.UserRoomDatabase_Impl
+ com.example.connectdatauser.database.UserRoomDatabase_Impl$1

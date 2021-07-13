@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\RazeGalactic-ComplexLayout\\ConnectDataUser\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_get_data.xml",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\RazeGalactic-ComplexLayout\\ConnectDataUser\\app\\src\\main\\res\\layout\\fragment_get_data.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\RazeGalactic-ComplexLayout\\ConnectDataUser\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\RazeGalactic-ComplexLayout\\ConnectDataUser\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\RazeGalactic-ComplexLayout\\ConnectDataUser\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_show.xml",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\RazeGalactic-ComplexLayout\\ConnectDataUser\\app\\src\\main\\res\\layout\\fragment_show.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\RazeGalactic-ComplexLayout\\ConnectDataUser\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item.xml",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\RazeGalactic-ComplexLayout\\ConnectDataUser\\app\\src\\main\\res\\layout\\item.xml"
+    }
+]
